@@ -1,6 +1,6 @@
 {
-    "name": "eckburgfall2020final",
-    "short_name": "eckburgfall2020final",
+    "name": "test_calendar",
+    "short_name": "test_calendar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
