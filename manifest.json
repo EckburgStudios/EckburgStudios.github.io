@@ -1,6 +1,6 @@
 {
-    "name": "test_calendar",
-    "short_name": "test_calendar",
+    "name": "eckburg_winter2021",
+    "short_name": "eckburg_winter2021",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
